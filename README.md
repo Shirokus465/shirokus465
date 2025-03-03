@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+# 👋 Hello! I'm Attapong Kanonponverote  
+🚀 Aspiring Data Engineer | Python | SQL | Big Data  
+
+## 🛠 Tech Stack
+- **Programming:** ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+- **Big Data:** ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-FDEE21?logo=apachespark&logoColor=black)
+- **Cloud:** ![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=googlecloud&logoColor=white)
+
+📫 **Contact:** [LinkedIn](https://www.linkedin.com/in/yourprofile)
+
 <!--
 **Shirokus465/shirokus465** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
